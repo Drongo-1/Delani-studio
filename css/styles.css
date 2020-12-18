@@ -20,5 +20,8 @@
     /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
 }
 .samm1{
-    background-image: url('../');
+    background-image: url('../images/s_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
