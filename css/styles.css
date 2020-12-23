@@ -1,3 +1,11 @@
+*{
+    font-family: sans-serif !important;
+    overflow-x: hidden !important;
+    border-collapse: separate;
+}
+.container,.container-fluid{
+    width: 100 !important;
+}
 .samm{
     background-image: url('../images/h_img.jpg');
     width: 100% !important;
@@ -20,7 +28,7 @@
 }
 .p11{
     line-height: 30px !important;
-    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
 }
 .samm1{
     background-image: url('../images/s_image.jpg');
@@ -33,4 +41,87 @@
 }
 .samm1 h2{
     margin-top: 95px;
+}
+.imp2{
+    margin-left: 5% !important;
+}
+.imp3{
+    margin-left: 7%;
+    position: relative;
+}
+.pia1{
+    margin-left: 22%;
+}
+.pia2{
+    padding-left: 6% !important;
+}
+.pia{
+    margin-left: 30%;
+}
+.pimg1,.pimg2{
+    padding-left: 27% !important;
+}
+.pimg3{
+    padding-left: 20%;
+}
+.poico1 img,.poico2 img,.poico3 img,.poico4 img,.poico5 img,.poico6 img,.poico7 img,.poico8 img{
+    width: 99%;
+    margin-bottom: 5vh;
+    position: relative;
+}
+
+.samm2{
+    background-image: url('../images/c_image.jpg');
+    background-size: cover;
+    height: 90vh !important;
+    background-repeat: no-repeat;
+    margin-bottom: 1vh !important;
+    /* padding-bottom: 20vh !important; */
+}
+.tfo{
+    padding-right: 2% !important;
+}
+.tfo0{
+    margin-left: 18% !important;
+}
+.qevo{
+    margin-left: 15% !important;
+    margin-top: 0vh;
+    background-color: transparent !important;
+}
+.qevo1{
+    margin-left: 3% !important;
+    margin-top: 0vh;
+    background-color: transparent !important;
+}
+input{
+    color: white !important;  
+    border: 1px solid white !important;
+}
+.Qevo1{
+    height: 40vh;
+    width: 60%;
+    background-color: transparent;
+    margin-left: 20%;
+    line-height: 0;
+}
+.pi1{
+    display: none;
+    position: absolute;
+    opacity: 1.1;
+    padding-left: 6%;
+    /* padding-bottom: 20px !important; */
+    /* color: rgb(76, 0, 255) !important; */
+}
+.tto{
+    margin-left: 48%;
+    background-color: skyblue;
+    padding: 1px 1% 1px 1% !important;
+
+}
+.show1,.show2,.show3{
+    display: none;
+}
+.show3{
+    padding-left: 0 !important;
 }
