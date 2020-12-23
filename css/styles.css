@@ -42,27 +42,23 @@
 .samm1 h2{
     margin-top: 95px;
 }
-.imp2{
-    margin-left: 5% !important;
-}
-.imp3{
-    margin-left: 7%;
-    position: relative;
-}
-.pia1{
-    margin-left: 22%;
-}
-.pia2{
-    padding-left: 6% !important;
+.pimg1{
+    margin-left: 21%;
 }
 .pia{
-    margin-left: 30%;
+    margin-left: 23%;
 }
-.pimg1,.pimg2{
-    padding-left: 27% !important;
+.pia1{
+    margin-left: 35%;
+}
+.pia2{
+    margin-left: 40%;
 }
 .pimg3{
-    padding-left: 20%;
+    margin-left: 55%;
+}
+.pimg2{
+    margin-left: 39%;
 }
 .poico1 img,.poico2 img,.poico3 img,.poico4 img,.poico5 img,.poico6 img,.poico7 img,.poico8 img{
     width: 99%;
@@ -85,14 +81,16 @@
     margin-left: 18% !important;
 }
 .qevo{
-    margin-left: 15% !important;
+    margin-left: 20% !important;
     margin-top: 0vh;
     background-color: transparent !important;
+    width: 29%;
 }
 .qevo1{
-    margin-left: 3% !important;
+    margin-left: 2% !important;
     margin-top: 0vh;
     background-color: transparent !important;
+    width: 29%;
 }
 input{
     color: white !important;  
@@ -121,7 +119,4 @@ input{
 }
 .show1,.show2,.show3{
     display: none;
-}
-.show3{
-    padding-left: 0 !important;
 }
