@@ -1,0 +1,20 @@
+$(document).ready(function(){
+    $(".imp1,.show1").click(function(){
+        $("div.imp1").toggle();
+        $("div.show1").toggle();
+    })
+    $(".imp2,.show2").click(function(){
+        $("div.imp2").toggle();
+        $("div.show2").toggle();
+    })
+    $(".imp3,.show3").click(function(){
+        $("div.imp3").toggle();
+        $("div.show3").toggle();
+    })
+    $(".poico1").mouseover(function(){
+        $(".pi1").show(function(){
+            $(".lur1").blur();
+        });
+    }); 
+
+});
