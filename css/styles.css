@@ -1,5 +1,5 @@
 *{
-    font-family: sans-serif !important;
+    font-family: 'Roboto', sans-serif;
     overflow-x: hidden !important;
     border-collapse: separate;
 }
@@ -106,10 +106,7 @@ input{
 .pi1{
     display: none;
     position: absolute;
-    opacity: 1.1;
-    padding-left: 6%;
-    /* padding-bottom: 20px !important; */
-    /* color: rgb(76, 0, 255) !important; */
+    color: white !important;
 }
 .tto{
     margin-left: 48%;
@@ -120,3 +117,99 @@ input{
 .show1,.show2,.show3{
     display: none;
 }
+.poico1a,.poico2a,.poico3a,.poico4a,.poico5a,.poico6a,.poico7a,.poico8a{
+    display: none;
+}
+@media (min-width: 729px){
+    .poico1a,.poico5a{
+        display: none;
+        position: absolute;
+        color: white !important;
+        background-color: rgba(0, 0, 0, 0.7);
+        width: 19.2%;
+        margin-left: 0.9%;
+        height: 33.2vh;
+    }
+    .poi{
+        margin-top: 2.3vh;
+        border: 1px solid white;
+        padding: 10.3vh;
+    }
+    .poico2a,.poico6a{
+        display: none;
+        position: absolute;
+        color: white !important;
+        background-color: rgba(0, 0, 0, 0.7);
+        width: 19.2%;    
+        margin-left: 22%;
+        height: 33.2vh;
+    }
+    .poico3a,.poico7a{
+        display: none;
+        position: absolute;
+        color: white !important;
+        background-color: rgba(0, 0, 0, 0.7);    
+        width: 19.2%;
+        margin-left: 43.1%;
+        height: 33.2vh;
+    }
+    .poico4a,.poico8a{
+        display: none;
+        position: absolute;
+        color: white !important;
+        background-color: rgba(0, 0, 0, 0.7);    
+        width: 19.2%;
+        margin-left: 64.2%;
+        height: 33.2vh;
+    }
+}
+@media (max-width: 728px){
+.samm{
+    margin-bottom: 1vh !important;
+    height: 33vh;
+    position: relative;
+    background-size: contain;
+}
+.pimg1,.pimg2,.pimg3{
+    margin-left: 38% !important;
+}
+.pia,.pia1,.pia2{
+    text-align: center;
+    margin-left: 0;
+}
+.samm img{
+    margin-top: 8vh;
+    width: 7%;
+}
+.samm1{
+    background-size: cover;
+    /* margin-top: -10vh;
+    margin-bottom: -10vh; */
+    /* height: 70vh; */
+    overflow: hidden;
+}
+.p12{
+    height: 33vh;
+}
+.tfo0 img{
+    width: 10%;
+}
+.tfo0{
+    padding-right: 30%;
+    padding-left: 0;
+    width: 100%;
+}
+.samm2{
+    height: auto !important;
+    background-size: auto;
+    margin-bottom: 1vh;
+}
+.Qevo1{
+    height: 20vh;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+
+}
+
+
