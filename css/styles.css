@@ -9,8 +9,9 @@
 .samm{
     background-image: url('../images/h_img.jpg');
     width: 100% !important;
-    background-size: contain;
-    background-repeat: no-repeat;height: 118vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
 }
 .samm h1{
     font-size: 40 !important;
@@ -168,7 +169,8 @@ input{
     margin-bottom: 1vh !important;
     height: 33vh;
     position: relative;
-    background-size: contain;
+    background-size: cover;
+    width: auto;
 }
 .pimg1,.pimg2,.pimg3{
     margin-left: 38% !important;
